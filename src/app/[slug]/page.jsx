@@ -9,7 +9,7 @@ const SinglePage = () => {
     <div className={styles.container}>
         <div className={styles.infoContainer}>
             <div className={styles.textContainer}>
-                <h1>this is a text title for a page</h1>
+                <h1>this is a text title for a page this is a text title for a page</h1>
                 <div className={styles.user}>
                     <div className={styles.userImageContainer}>
                         <Image src='/p1.jpeg' alt='' fill className={styles.avatar} />

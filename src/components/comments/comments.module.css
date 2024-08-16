@@ -29,6 +29,14 @@
     cursor: pointer;
 }
 
+.comments{
+    margin-top: 50px;
+}
+
+.comment{
+    margin-bottom: 50px;
+}
+
 .user{
     display: flex;
     align-items: center;
