@@ -1,6 +1,10 @@
 ## Source for Tutorial Information:
 Link to youtube: [Full-Stack Blog App Tutorial](https://www.youtube.com/watch?v=DpYE5zPDRVQ)
 
+## Source for OAuth
+Auth.js: [Auth.js/getting-started](https://authjs.dev/getting-started)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
