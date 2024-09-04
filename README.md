@@ -10,6 +10,11 @@ Cluster Name: Cluster 0.
 username: dreither44.
 password: 6r0HWT054DYgHuC4.
 
+## Prisma
+
+# Documentation
+https://www.prisma.io/docs/orm
+
 # Prisma Studio
 To Open Prisma Studio: npx prisma studio
 
