@@ -5,10 +5,14 @@ Link to youtube: [Full-Stack Blog App Tutorial](https://www.youtube.com/watch?v=
 Auth.js: [Auth.js/getting-started](https://authjs.dev/getting-started)
 
 ## MongoDB Info:
-Project Name: Blog
-Cluster Name: Cluster 0
-username: dreither44
-password: 6r0HWT054DYgHuC4
+Project Name: Blog.
+Cluster Name: Cluster 0.
+username: dreither44.
+password: 6r0HWT054DYgHuC4.
+
+# Prisma Studio
+To Open Prisma Studio: npx prisma studio
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
